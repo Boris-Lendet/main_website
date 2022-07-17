@@ -1,2 +1,2 @@
-# main_website
-Main website for Social Media Clusters
+# SCW business website
+Main website for Social Clusters Web
